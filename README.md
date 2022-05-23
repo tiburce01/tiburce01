@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tiburce01
+- Hello  ,
 
 <!---
 tiburce01/tiburce01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
